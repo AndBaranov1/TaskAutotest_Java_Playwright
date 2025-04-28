@@ -1,1 +1,6 @@
-# TaskAutotest_Java_Playwright
+# Автотесты для Datasub с использованием Java и Playwright
+## :heavy_check_mark: Реализованные проверки
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- ✓ Проверка успешной отправки формы запроса
+- ✓ Проверка не успешной отправки формы запроса
